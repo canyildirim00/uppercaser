@@ -1,1 +1,1 @@
-While i was working as an IT Staff, i needed to make all sentence caps. But those sentences are too long and many. In order to avoid it, i wrote this simple code.
+While i was working as an IT Staff, i needed to make all sentence in caps. But those sentences are too long and many. In order to avoid it, i wrote this simple code. It enables me to get all written text uppercased and copied automatically.
